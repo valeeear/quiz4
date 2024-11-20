@@ -1,0 +1,30 @@
+body{
+    font-family: "Lucida Handwriting", cursive;
+    text-align: center;
+    margin: 200px auto;
+    background-color: rgb(255, 126, 238);
+}
+
+ li{
+    margin: 10px 0;
+ }
+
+ ul{
+    list-style-type: none;
+    padding: 0;
+
+ }
+
+ button{
+    color: rgb(0, 0, 0);
+    background-color:rgb(186, 138, 230)
+
+    
+ }
+
+ button:hover {
+    background-color: #0056b3;
+  }
+
+
+
