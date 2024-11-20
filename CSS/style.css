@@ -12,19 +12,23 @@ body{
  ul{
     list-style-type: none;
     padding: 0;
+    box-shadow: 0 2px 5px rgb(240, 32, 160);
 
  }
 
  button{
     color: rgb(0, 0, 0);
-    background-color:rgb(186, 138, 230)
+    background-color:rgb(186, 138, 230);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
     
  }
 
  button:hover {
-    background-color: #0056b3;
+    background-color: #7100b3;
   }
+
+  
 
 
 
